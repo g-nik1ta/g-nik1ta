@@ -12,3 +12,10 @@
 - ⚡ In my free time, I work on my pet-projects and learn new technologies.
 - 👯 Looking for a job in a friendly and talented team frontend developers.
 - 📫 How to reach me:
+<a href="https://t.me/nekit_tt">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white" alt="Telegram Badge" />
+</a>
+<a href="mailto:gonohovn@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=be2b21" alt="Telegram Badge" />
+</a>
+  
