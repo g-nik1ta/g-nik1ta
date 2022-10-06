@@ -6,3 +6,9 @@
 
 ---
 
+<h3>About me:</h3>
+
+- 🌱 I completed frontend courses in <a href="https://edu.cbsystematics.com/ru">CyberBionicSystematics</a>.
+- ⚡ In my free time, I work on my pet-projects and learn new technologies.
+- 👯 Looking for a job in a friendly and talented team frontend developers.
+- 📫 How to reach me:
