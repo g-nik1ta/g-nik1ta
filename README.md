@@ -1,9 +1,15 @@
-<h2 align="center">  Hi, my name is Nikita and I'm a Frontend Developer from Ukraine <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>&nbsp; </h2>
+<div align="center">
 
-<div align="center" margin="10px">
+<h2>  Hi, my name is Nikita and I'm a Frontend Developer from Ukraine <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>&nbsp; </h2>
+
+<div>
     <img src="images/preview-photo.jpg" width="400px" />
 </div>
-<img align="center" src="https://komarev.com/ghpvc/?username=g-nik1ta&style=flat-square&color=blue" alt="visitors"/>
+
+<img src="https://komarev.com/ghpvc/?username=g-nik1ta&style=flat-square&color=blue" alt="visitors"/>
+
+</div>
+
 
 
 ---
@@ -37,3 +43,11 @@
 <img height="32px" src="https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap&logoColor=" alt="Bootstrap Badge" />
 <img height="32px" src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js&logoColor=" alt="NodeJS Badge" />
 </div>
+
+---
+
+<h3>🔥 My stats:</h3>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=olga-budickaja&date_format=Mj[,Y])](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=g-nik1ta&langs_count=8&hide=PHP)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;&nbsp;&nbsp;
