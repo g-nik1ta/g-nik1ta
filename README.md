@@ -3,7 +3,7 @@
 <div align="center" margin="10px">
     <img src="images/preview-photo.jpg" width="400px" />
 </div>
-<img src="https://komarev.com/ghpvc/?username=g-nik1ta&style=flat-square&color=blue" alt="visitors"/>
+<img align="center" src="https://komarev.com/ghpvc/?username=g-nik1ta&style=flat-square&color=blue" alt="visitors"/>
 
 
 ---
@@ -26,12 +26,14 @@
 
 <h3>My skils:</h3>
 
-<img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=" alt="React Badge" />
-<img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=" alt="HTML5 Badge" />
-<img src="https://img.shields.io/badge/CCS3-black?style=for-the-badge&logo=css3&logoColor=" alt="CCS3 Badge" />
-<img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=" alt="JS Badge" />
-<img src="https://img.shields.io/badge/Sass-black?style=for-the-badge&logo=sass&logoColor=pink" alt="Sass Badge" />
-<img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=" alt="Git Badge" />
-<img src="https://img.shields.io/badge/Gulp-black?style=for-the-badge&logo=gulp&logoColor=" alt="Bootstrap Badge" />
-<img src="https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap&logoColor=" alt="Bootstrap Badge" />
-<img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js&logoColor=" alt="NodeJS Badge" />
+<div align="center">
+<img height="32px" src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=" alt="React Badge" />
+<img height="32px" src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=" alt="HTML5 Badge" />
+<img height="32px" src="https://img.shields.io/badge/CCS3-black?style=for-the-badge&logo=css3&logoColor=" alt="CCS3 Badge" />
+<img height="32px" src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=" alt="JS Badge" />
+<img height="32px" src="https://img.shields.io/badge/Sass-black?style=for-the-badge&logo=sass&logoColor=pink" alt="Sass Badge" />
+<img height="32px" src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=" alt="Git Badge" />
+<img height="32px" src="https://img.shields.io/badge/Gulp-black?style=for-the-badge&logo=gulp&logoColor=" alt="Bootstrap Badge" />
+<img height="32px" src="https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap&logoColor=" alt="Bootstrap Badge" />
+<img height="32px" src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js&logoColor=" alt="NodeJS Badge" />
+</div>
