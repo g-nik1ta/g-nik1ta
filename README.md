@@ -17,9 +17,9 @@
 
 <h3>About me:</h3>
 
-- 🌱 I completed frontend courses in <a href="https://edu.cbsystematics.com/ru">CyberBionicSystematics</a>.
-- ⚡ In my free time, I work on my pet-projects and learn new technologies.
-- 👯 Looking for a job in a friendly and talented team frontend developers.
+- 🌱 I have completed the frontend courses in <a href="https://edu.cbsystematics.com/ru">CyberBionicSystematics</a>.
+- 🔭 In my spare time, I work on my pet-projects and study new trends technologies.
+- ⚡ I'm Looking for a job in a friendly and accomplished team frontend developers.
 - 📫 How to reach me: <a href="https://t.me/nekit_tt">
     <img src="https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white" alt="Gmail Badge" />
 </a> <a href="mailto:gonohovn@gmail.com">
