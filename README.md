@@ -21,9 +21,9 @@
 - 🔭 In my spare time, I work on my pet-projects and study new trends technologies.
 - ⚡ I'm Looking for a job in a friendly and accomplished team frontend developers.
 - 📫 How to reach me: <a href="https://t.me/nekit_tt">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white" alt="Gmail Badge" />
+    <img src="https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white" alt="Telegran Badge" />
 </a> <a href="mailto:gonohovn@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=be2b21" alt="Telegram Badge" />
+    <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=be2b21" alt="Gmail Badge" />
 </a>
   
 
@@ -39,7 +39,7 @@
 <img height="32px" src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=" alt="JS Badge" />
 <img height="32px" src="https://img.shields.io/badge/Sass-black?style=for-the-badge&logo=sass&logoColor=pink" alt="Sass Badge" />
 <img height="32px" src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=" alt="Git Badge" />
-<img height="32px" src="https://img.shields.io/badge/Gulp-black?style=for-the-badge&logo=gulp&logoColor=" alt="Bootstrap Badge" />
+<img height="32px" src="https://img.shields.io/badge/Gulp-black?style=for-the-badge&logo=gulp&logoColor=" alt="Gulp Badge" />
 <img height="32px" src="https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap&logoColor=" alt="Bootstrap Badge" />
 <img height="32px" src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js&logoColor=" alt="NodeJS Badge" />
 </div>
