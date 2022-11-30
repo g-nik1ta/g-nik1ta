@@ -34,6 +34,9 @@
 
 <div align="center">
 <img height="32px" src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=" alt="React Badge" />
+<img height="32px" src="https://img.shields.io/badge/Redux-black?style=for-the-badge&logo=redux&logoColor=" alt="Redux Badge" />
+<img height="32px" src="https://img.shields.io/badge/Vue-black?style=for-the-badge&logo=vue.js&logoColor=" alt="Vue Badge" />
+<img height="32px" src="https://img.shields.io/badge/Vuetify-black?style=for-the-badge&logo=vuetify&logoColor=" alt="Vuetify Badge" />
 <img height="32px" src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=" alt="HTML5 Badge" />
 <img height="32px" src="https://img.shields.io/badge/CCS3-black?style=for-the-badge&logo=css3&logoColor=" alt="CCS3 Badge" />
 <img height="32px" src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=" alt="JS Badge" />
