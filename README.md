@@ -45,7 +45,8 @@
 <img height="32px" src="https://img.shields.io/badge/Firebase-black?style=for-the-badge&logo=firebase&logoColor=" alt="Firebase Badge" />
 <img height="32px" src="https://img.shields.io/badge/Gulp-black?style=for-the-badge&logo=gulp&logoColor=" alt="Gulp Badge" />
 <img height="32px" src="https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap&logoColor=" alt="Bootstrap Badge" />
-<img height="32px" src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js&logoColor=" alt="NodeJS Badge" />
+<img height="32px" src="https://img.shields.io/badge/NPM-black?style=for-the-badge&logo=npm&logoColor=" alt="Npm Badge" />
+<img height="32px" src="https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&logoColor=" alt="Figma Badge" />
 </div>
 
 ---
