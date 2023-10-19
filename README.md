@@ -19,7 +19,6 @@
 
 - 🌱 I have completed the frontend courses in <a href="https://edu.cbsystematics.com/ru">CyberBionicSystematics</a>.
 - 🔭 In my spare time, I work on my pet-projects and study new trends technologies.
-<!-- - ⚡ I'm Looking for a job in a friendly and accomplished team frontend developers. -->
 - ⚡ Currently I work as a full stack developer at the IT company "Spekter".
 - 📫 How to reach me: <a href="https://t.me/nekit_tt">
     <img src="https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white" alt="Telegran Badge" />
