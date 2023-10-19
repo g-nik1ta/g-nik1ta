@@ -43,6 +43,7 @@
 <img height="32px" src="https://img.shields.io/badge/CCS3-black?style=for-the-badge&logo=css3&logoColor=" alt="CCS3 Badge" />
 <img height="32px" src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=" alt="JS Badge" />
 <img height="32px" src="https://img.shields.io/badge/Sass-black?style=for-the-badge&logo=sass&logoColor=pink" alt="Sass Badge" />
+<img height="32px" src="https://img.shields.io/badge/jQuery-black?style=for-the-badge&logo=jQuery&logoColor=pink" alt="jQuery Badge" />
 <img height="32px" src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=TypeScript&logoColor=" alt="TS Badge" />
 <img height="32px" src="https://img.shields.io/badge/Webpack-black?style=for-the-badge&logo=webpack&logoColor=" alt="Webpack Badge" />
 <img height="32px" src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=" alt="Git Badge" />
