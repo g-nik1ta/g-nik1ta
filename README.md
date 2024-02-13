@@ -19,7 +19,7 @@
 
 - 🌱 I have completed the frontend courses in <a href="https://edu.cbsystematics.com/ru">CyberBionicSystematics</a>.
 - 🔭 In my spare time, I work on my pet-projects and study new trends technologies.
-- ⚡ Currently I work as a Fullstack developer at the IT company <a href="https://spekter.site/">"Spekter"</a>.
+- ⚡ Currently I work as a Fullstack developer at the IT company <a href="https://spekter-it.site/">"Spekter"</a>.
 <!-- - 📫 How to reach me: <a href="https://t.me/nekit_tt">
     <img src="https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white" alt="Telegran Badge" />
 </a> <a href="mailto:nikita.gonohov.it@gmail.com">
