@@ -60,6 +60,5 @@
 
 <h3>🔥 My stats:</h3>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=olga-budickaja&date_format=Mj[,Y])](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=g-nik1ta&langs_count=8&hide=PHP)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;&nbsp;&nbsp;
+[![GitHub Streak](https://streak-stats.demolab.com?user=g-nik1ta)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=g-nik1ta&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;&nbsp;&nbsp;
